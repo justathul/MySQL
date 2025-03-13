@@ -1,7 +1,7 @@
     app:
         name: MySQL
         code: mysql
-        notify: appzdev@cloudbourne.co
+        notify: apsuresh@ecloudcontrol.com
 
     build:
         version: 5.7
@@ -36,4 +36,4 @@
           vault: MYSQL_SPRINGBOOTWEB_PASSWORD
         MYSQL_WORDPRESS_PASSWORD:
           vault: MYSQL_WORDPRESS_PASSWORD
-        revision : 25
+        revision : 26
